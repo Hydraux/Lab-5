@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ryan\source\repos\lab5\lab5\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ryan\source\repos\lab5\lab5\source.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ryan\source\repos\lab5\lab5\source.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Lab5.vcxproj -> C:\Users\Ryan\source\repos\Lab5\Debug\Lab5.exe
